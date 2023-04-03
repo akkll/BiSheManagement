@@ -1,0 +1,13 @@
+const updateEmployee = {
+    "flag":true,
+    "data":[
+        {"id":"ID/L-s8264","name":"姓名/李四","gender":"性别/男","titleID":"职衔ID/2","title":"职衔/技术员","ishere":"在职情况/在职","workdate":"入职日期/2023-01-01","departdate":"离职日期/未离职","card":"身份证号/732732713973092838","unit":"所属单位/第四组","birthday":"出生日期/1999-01-01","address":"家庭住址/山西省","mobile":"电话号码/13246346785","email":"电子邮箱/456@qq.com","wechat":"微信/tdfxvcx"},
+        {"id":"ID/z-a8890","name":"姓名/张三","gender":"性别/女","titleID":"职衔ID/1","title":"职衔/主管","ishere":"在职情况/在职","workdate":"入职日期/2018-01-01","departdate":"离职日期/未离职","card":"身份证号/114514111111111111","unit":"所属单位/第一组","birthday":"出生日期/1990-01-01","address":"家庭住址/浙江省","mobile":"电话号码/13538294638","email":"电子邮箱/123@qq.com","wechat":"微信/dsadsa"},
+        {"id":"ID/z-a8890","name":"姓名/张三","gender":"性别/女","titleID":"职衔ID/1","title":"职衔/主管","ishere":"在职情况/在职","workdate":"入职日期/2018-01-01","departdate":"离职日期/未离职","card":"身份证号/114514111111111111","unit":"所属单位/第一组","birthday":"出生日期/1990-01-01","address":"家庭住址/浙江省","mobile":"电话号码/13538294638","email":"电子邮箱/123@qq.com","wechat":"微信/dsadsa"},
+        {"id":"ID/z-a8890","name":"姓名/张三","gender":"性别/女","titleID":"职衔ID/1","title":"职衔/主管","ishere":"在职情况/在职","workdate":"入职日期/2018-01-01","departdate":"离职日期/2021-01-10","card":"身份证号/114514111111111111","unit":"所属单位/第一组","birthday":"出生日期/1990-01-01","address":"家庭住址/浙江省","mobile":"电话号码/13538294638","email":"电子邮箱/123@qq.com","wechat":"微信/dsadsa"},
+        {"id":"ID/z-a8890","name":"姓名/张三","gender":"性别/女","titleID":"职衔ID/1","title":"职衔/主管","ishere":"在职情况/在职","workdate":"入职日期/2018-01-01","departdate":"离职日期/未离职","card":"身份证号/114514111111111111","unit":"所属单位/第一组","birthday":"出生日期/1990-01-01","address":"家庭住址/浙江省","mobile":"电话号码/13538294638","email":"电子邮箱/123@qq.com","wechat":"微信/dsadsa"},
+        {"id":"ID/z-a8890","name":"姓名/张三","gender":"性别/女","titleID":"职衔ID/1","title":"职衔/主管","ishere":"在职情况/在职","workdate":"入职日期/2018-01-01","departdate":"离职日期/未离职","card":"身份证号/114514111111111111","unit":"所属单位/第一组","birthday":"出生日期/1990-01-01","address":"家庭住址/浙江省","mobile":"电话号码/13538294638","email":"电子邮箱/123@qq.com","wechat":"微信/dsadsa"},
+        {"id":"ID/z-a8890","name":"姓名/张三","gender":"性别/女","titleID":"职衔ID/1","title":"职衔/主管","ishere":"在职情况/在职","workdate":"入职日期/2018-01-01","departdate":"离职日期/未离职","card":"身份证号/114514111111111111","unit":"所属单位/第一组","birthday":"出生日期/1990-01-01","address":"家庭住址/浙江省","mobile":"电话号码/13538294638","email":"电子邮箱/123@qq.com","wechat":"微信/dsadsa"},
+    ],
+}
+export default updateEmployee;
